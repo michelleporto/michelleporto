@@ -62,7 +62,8 @@
 
   
   
-  <br><h5>Agora já me conhece um pouco, então, vamos codaaaaaar!
+  <hr></hr>
+  <br><h3>Agora já me conhece um pouco, então, vamos codaaaaaar!</h3>
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
           
