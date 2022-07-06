@@ -41,4 +41,4 @@ class About extends Me {
 Vamos codar juntos?</h3>
 
 
-![Snake animation](https://github.com/michelleporto/michelleporto/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/michelleporto/michelleporto/blob/output/github-contribution-grid-snake.svg)
