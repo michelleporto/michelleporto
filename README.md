@@ -40,5 +40,4 @@ class About extends Me {
 <h3> Entre e fique à vontade.
 Vamos codar juntos?</h3>
 
-
-[Snake animation](https://github.com/michelleporto/michelleporto/blob/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif
