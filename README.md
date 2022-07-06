@@ -64,7 +64,7 @@
   
   <br><h5>Agora já me conhece um pouco, então, vamos codaaaaaar!
   
-  ![Snake animation](https://github.com/michelleporto/michelleporto/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
           
           
           
