@@ -17,16 +17,13 @@
 
 
 
-
 <p><strong>Apaixonada por pesssoas e tecnologia.
   <br>Formada em Psicologia e atuo como Talent Acquisition de TI. 
   <br>Foi aprimorando os conhecimentos técnicos em TI, através da facul e dos
   <br>bootcamps, que passei a AMAR codar<s>(mesmo fritando o cérebro todos os dias)</s>.haha
- 
   
-  
- <div dsplay="inline-block">
-    <p><strong> Além de trabalhar, estudar e codar muitoooo,
+  <div dsplay="inline-block">
+ <p><strong> Além de trabalhar, estudar e codar muitoooo,
       <br>em tempo integral, nas horas vagas, 24h por dia: sou mãe
       <br>de uma linda menininha. <s>#multitarefasquefala</s>
       
@@ -56,18 +53,18 @@
   
 
  
-<div dsplay="inline-block">
-  <br><br><strong><p> Vibing to : 🎧  </strong></p>
+  <hr></hr>
+  <br><br><strong><p><h3>Sobre hobbies, amo alimentar o meu espírito aventureiro,
+  <br>conhecer ou fazer algo novo, assistir a filmes comendo uma pipoquinha, 
+  <br> e ouvir muita, muita música. 🎧
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
-
-<hr></hr>
+  
+  
+  <br><h5>Agora já me conhece um pouco, então, vamos codaaaaaar!
+  
+  ![Snake animation](https://github.com/michelleporto/michelleporto/blob/output/github-contribution-grid-snake.svg)
           
           
           
