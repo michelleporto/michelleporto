@@ -38,7 +38,7 @@
       
     
     ### 🖥️ Tecnologias e Ferramentas que estou aprendendo:
-<img width="300px" align="right" src="https://user-images.githubusercontent.com/105405924/177608116-70c868b8-abf3-4aa5-8ab3-1667365c9f9f.jpg">
+<img width="300px" align="right" src="https://user-images.githubusercontent.com/105405924/177609338-ad2d7567-faca-4a2c-b7db-51c21f39cd3e.jpg">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
