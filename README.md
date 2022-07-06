@@ -21,13 +21,13 @@
 <p><strong>Apaixonada por pesssoas e tecnologia.
   <br>Formada em Psicologia e atuo como Talent Acquisition de TI. 
   <br>Foi aprimorando os conhecimentos técnicos em TI, através da facul e dos
-  <br>bootcamps, que passei a AMAR codar <s>e a odiar também</s>.haha
-  <br>A relação aqui é entre tapas e beijos mesmo.
+  <br>bootcamps, que passei a AMAR codar<s>(mesmo fritando o cérebro todos os dias)</s>.haha
+ 
   
   
  <div dsplay="inline-block">
     <p><strong> Além de trabalhar, estudar e codar muitoooo,
-      <br>em tempo integral, nas horas vagas, 24h por dia, sou mãe
+      <br>em tempo integral, nas horas vagas, 24h por dia: sou mãe
       <br>de uma linda menininha. <s>#multitarefasquefala</s>
       
       
