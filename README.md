@@ -63,7 +63,7 @@
   
   
   <hr></hr>
-  <br><h3>Agora já me conhece um pouco, então, vamos CODAAAAAAAAAAR!</h3>
+  <br><h3>Agora que já me conhece um pouco, então, vamos CODAAAAAAAAAAR!</h3>
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
           
