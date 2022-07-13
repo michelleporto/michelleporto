@@ -20,8 +20,8 @@
 <p><strong>Apaixonada por pesssoas e tecnologia.
   <br>Formada em Psicologia e atuo como Talent Acquisition de TI. 
   <br>Foi aprimorando os conhecimentos técnicos em TI, através da facul e dos
-  <br>bootcamps, que passei a AMAR codar<s>(mesmo fritando o cérebro todos os dias)</s>.haha
-  
+  <br>bootcamps, que passei a AMAR codar<s>(mesmo fritando o cérebro todos os dias)</s>.haha. 
+<br> ...e virou um hobby para as horas vagas.</br>
   <div dsplay="inline-block">
  <p><strong> Além de trabalhar, estudar e codar muitoooo,
       <br>em tempo integral, nas horas vagas, 24h por dia: sou mãe
