@@ -23,7 +23,7 @@
   <br>bootcamps, que passei a AMAR codar<s>(mesmo fritando o cérebro todos os dias)</s>.haha. 
 <br> ...e virou um hobby para as horas vagas.</br>
   <div dsplay="inline-block">
- <p><strong> Além de trabalhar, estudar e codar muitoooo,
+ <p><strong> Além de trabalhar, estudar,
       <br>em tempo integral, nas horas vagas, 24h por dia: sou mãe
       <br>de uma linda menininha. <s>#multitarefasquefala</s>
       
